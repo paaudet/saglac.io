@@ -421,7 +421,7 @@
 
 	.feature-list {
 		h3 {
-			color: #e97770 !important;
+			color: #e97770;
 
 			&:before {
 				position: relative;
@@ -1069,13 +1069,12 @@
 					font-size: 2.75em;
 					letter-spacing: 0.075em;
 					line-height: 1.35em;
-					padding: 1em 0 1em 0;
+					padding: 1em .5em;
 					margin-bottom: 1em;
 				}
 
 				> .style3 {
 					font-size: 1.1em;
-					margin: 0 auto;
 				}
 			}
 
