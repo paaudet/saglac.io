@@ -11,5 +11,12 @@ paginate:     5
 sass:
   sass_dir: _sass
 
-facebook_app_id: 130024877754864
-facebook_default_image: /images/open-graph-default-image.png
+facebook:
+  app_id: 130024877754864
+  default_image: /images/open-graph-default-image.png
+  page: https://www.facebook.com/saglacio/
+  group: https://www.facebook.com/groups/saglac.io/
+
+twitter:
+  handle: saglacio
+  url: https://twitter.com/saglacio
